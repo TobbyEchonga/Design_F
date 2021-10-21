@@ -2,4 +2,4 @@
 Simple application to represent the letter F in python as 'X'
 #
 # Output result
-![alt text](https://github.com/TobbyEchonga/music_genre_machine-_learing/blob/main/ml_music_output.JPG?raw=true)
+![alt text](https://github.com/TobbyEchonga/design_F/blob/main/design_F_ouput.JPG?raw=true)
